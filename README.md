@@ -30,4 +30,4 @@ For running the code, it is required to install the third-party toolbox "YALMIP"
 
 The code is based on the following work:
 
-* L. Calogero *et al.*, "Neural Adaptive MPC with Evolutionary-Based Tuning for Power Management in Fuel Cell Hybrid Electric Vehicles," 2023 [Submitted to *Control Engineering Practice*].
+* L. Calogero *et al.*, "Neural Adaptive MPC with Evolutionary-Based Tuning for Power Management in Fuel Cell Hybrid Electric Vehicles," 2023 [Under review].
